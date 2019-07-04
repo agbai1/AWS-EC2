@@ -1,4 +1,5 @@
 ## Attempting to create an AWS-EC2 Instance and install LAMP server on it
+------------------
 
 ### Requirements
 * A working laptop
